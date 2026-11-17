@@ -1,0 +1,13 @@
+[project]
+name = "single-systems"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ipython>=9.18.1",
+    "matplotlib>=3.11.2",
+    "pylatexenc>=2.11",
+    "qiskit>=2.6.2",
+    "sympy>=1.14.0",
+]
